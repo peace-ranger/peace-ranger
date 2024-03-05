@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @peace-ranger
-- 👀 I’m interested in **Binary Analysis, Reverse Engineering & System Security in general**
+- 👀 I’m interested in **Binary Analysis, Reverse Engineering & Systems Security in general**
 - 🌱 I regularly participate in CTFs and mostly solve `pwn` & `rev` challenges
 
 <!---
